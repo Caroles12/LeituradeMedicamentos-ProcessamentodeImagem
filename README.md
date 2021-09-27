@@ -1,2 +1,2 @@
 # ProcessamentoImagem
-Trabalho de processamento de imagem da disciplina de dsp2
+Esse trabalho consiste na identificação do nome do remédio contido na imagem do medicamento genérico, sendo apresentado como projeto final da disciplina de DSP2.
